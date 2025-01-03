@@ -9,6 +9,7 @@ Here are some recent competitions I participated in. Although the rankings are n
 **2024 WWW2025多模态对话系统意图识别挑战赛 初赛top8**  
 
 **2024 阿里天池 AFAC2024挑战组-赛题一:金融工具学习** **A榜Top3 B榜top7**  
+开源代码：https://github.com/yanzihan1/AFAC2024-Atop3
 
 **2024 KDD-CUP PST赛道 TOP4 /**  
 
@@ -33,7 +34,8 @@ Here are some recent competitions I participated in. Although the rankings are n
 **2021年4月获天池全球人工智能技术创新大赛[赛道三] Top 2%.**  
 
 
-I conduct research on various papers and also work with open-source code:
+I conduct research on various papers and also work with open-source code:  
+
 **Yan Zihan**, Liu Li, Li Xin, et al. Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors[J]. IEEE Transactions on Knowledge and Data Engineering, 2021. (10.1109/ TKDE. 2021. 31 27585)
 
 **开源数据和代码**：[yanzihan1/PSML: TKDE-Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors (github.com)](https://github.com/yanzihan1/PSML)
