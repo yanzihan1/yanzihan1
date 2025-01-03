@@ -45,4 +45,5 @@ He Jiawei, Liu Li, **Yan Zihan**, et al. User Alignment across Dynamic Social Ne
 **开源数据和代码**：[yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-: in this part, I will provide many tools for social networking, Link prediction and so on (github.com)](https://github.com/yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-)
 
 **Yan Zihan**, Y Chen, et al. Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence (WWW2023)
+**开源数据和代码**： https://github.com/yanzihan1/WWW2023-Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence
 
