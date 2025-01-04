@@ -1,4 +1,4 @@
-# 个人简介
+# Hi
 
 Life always requires seeking something fresh.
 I enjoy learning new technologies and reading new papers.
@@ -29,15 +29,15 @@ Here are some recent competitions I participated in. Although the rankings are n
 **2022年6月获中邮 ‘用户意图识别’全球挑战赛 Top 5.**  
 开原数据和代码：[yanzihan1/pt-intention-recognition: 中邮金融意图识别决赛第五名解决方案 (github.com)](https://github.com/yanzihan1/pt-intention-recognition)  
 
-**2021年7月获“英特尔大师杯”深度学习挑战赛[赛道三]Top 7  
+**2021年7月获“英特尔大师杯”深度学习挑战赛[赛道三]Top 7**   
 
-2021年6月获 2021搜狐校园文本匹配算法大赛 Top 8**    
+**2021年6月获 2021搜狐校园文本匹配算法大赛 Top 8**      
 开源地址：[CQUPT-GML/2021Sohu_Text_Matching: 2021搜狐校园文本匹配算法大赛决赛第八名解决方案(github.com)](https://github.com/CQUPT-GML/2021Sohu_Text_Matching)  
 
 **2021年4月获天池全球人工智能技术创新大赛[赛道三] Top 2%.**  
 
 
-I conduct research on various papers and also work with open-source code:  
+**I conduct research on various papers and also work with open-source code:**    
 
 **Yan Zihan**, Liu Li, Li Xin, et al. Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors[J]. IEEE Transactions on Knowledge and Data Engineering, 2021. (10.1109/ TKDE. 2021. 31 27585)
 开源数据和代码：[yanzihan1/PSML: TKDE-Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors (github.com)](https://github.com/yanzihan1/PSML)
