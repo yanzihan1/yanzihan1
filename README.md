@@ -6,6 +6,10 @@ Although not very skilled, I also love participating in competitions and scienti
 
 Here are some recent competitions I participated in. Although the rankings are not very good, I like to open-source them and exchange and learn with everyone.
 
+**2025 kaggle WSDM-CUP2025 ing** 
+
+**2025 kaggle swe-bench ing**  
+
 **2024 WWW2025多模态对话系统意图识别挑战赛 初赛top10**  
 
 **2024 阿里天池 AFAC2024挑战组-赛题一:金融工具学习** **A榜Top3 B榜top7**  
