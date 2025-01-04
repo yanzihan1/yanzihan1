@@ -15,7 +15,7 @@ Here are some recent competitions I participated in. Although the rankings are n
 
 **2024 Kaggle LLM - Detect AI Generated Text solo银牌 /**  
 
-**2024 阿里天池 阿里妈妈强化学习挑战赛  TOP4** 
+**2024 阿里天池 阿里妈妈强化学习挑战赛  TOP4**  
 **开源方案：** https://github.com/yanzihan1/2024-Alimama-challenge-top4  
 
 **2023 阿里天池-NVIDIA全球智能汽车AI挑战赛[赛道一] AI大模型检索问答 Top 6**  
