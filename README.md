@@ -9,14 +9,14 @@ Here are some recent competitions I participated in. Although the rankings are n
 **2024 WWW2025多模态对话系统意图识别挑战赛 初赛top10**  
 
 **2024 阿里天池 AFAC2024挑战组-赛题一:金融工具学习** **A榜Top3 B榜top7**  
-开源代码：https://github.com/yanzihan1/AFAC2024-Atop3
+开源代码：https://github.com/yanzihan1/AFAC2024-Atop3  
 
 **2024 KDD-CUP PST赛道 TOP4 /**  
 
 **2024 Kaggle LLM - Detect AI Generated Text solo银牌 /**  
 
 **2024 阿里天池 阿里妈妈强化学习挑战赛  TOP4** 
-**开源方案：** https://github.com/yanzihan1/2024-Alimama-challenge-top4
+**开源方案：** https://github.com/yanzihan1/2024-Alimama-challenge-top4  
 
 **2023 阿里天池-NVIDIA全球智能汽车AI挑战赛[赛道一] AI大模型检索问答 Top 6**  
 **开源方案：**[yanzihan1/LLM_RAG: 2023全球智能汽车AI挑战赛_赛道一_复赛8_决赛6 总结 (github.com)](https://github.com/yanzihan1/LLM_RAG)  
