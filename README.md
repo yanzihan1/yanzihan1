@@ -43,17 +43,17 @@ Here are some recent competitions I participated in. Although the rankings are n
 
 **I conduct research on various papers and also work with open-source code:**    
 
-**Yan Zihan** Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification tech report[WWW 2025]
+**Yan Zihan** Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification tech report[WWW 2025]  
 开源数据和代码： soon 
 
 
-**Yan Zihan**, Liu Li, Li Xin, et al. Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors[TKDE 2022]
+**Yan Zihan**, Liu Li, Li Xin, et al. Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors[TKDE 2022]  
 开源数据和代码：[yanzihan1/PSML: TKDE-Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors (github.com)](https://github.com/yanzihan1/PSML)
 
 
-He Jiawei, Liu Li, **Yan Zihan**, et al. User Alignment across Dynamic Social Networks based on Heuristic Algorithm[C]// Proceedings of the 2021 7th International Conference on Systems and Informatics [ICSAI,2021]
+He Jiawei, Liu Li, **Yan Zihan**, et al. User Alignment across Dynamic Social Networks based on Heuristic Algorithm[C]// Proceedings of the 2021 7th International Conference on Systems and Informatics [ICSAI,2021]  
 开源数据和代码：[yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-: in this part, I will provide many tools for social networking, Link prediction and so on (github.com)](https://github.com/yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-)
 
-**Yan Zihan**, Y Chen, et al. Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence (WWW2023)  
+**Yan Zihan**, Y Chen, et al. Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence (WWW2023)    
 开源数据和代码： https://github.com/yanzihan1/WWW2023-Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence
 
