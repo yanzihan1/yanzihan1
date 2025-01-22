@@ -6,9 +6,9 @@ Although not very skilled, I also love participating in competitions and scienti
 
 Here are some recent competitions I participated in. Although the rankings are not very good, I like to open-source them and exchange and learn with everyone.
 
-**2025 kaggle WSDM-CUP2025 ing** 
+**2025 kaggle WSDM-CUP2025 银** 
 
-**2025 kaggle swe-bench ing**  
+**2025 kaggle swe-bench solo银**  
 
 **2024 WWW2025多模态对话系统意图识别挑战赛 top10**  
 
@@ -41,7 +41,7 @@ Here are some recent competitions I participated in. Although the rankings are n
 **2021年4月获天池全球人工智能技术创新大赛[赛道三] Top 2%.**  
 
 
-**I conduct research on various papers and also work with open-source code:**    
+### **I conduct research on various papers and also work with open-source code:**    
 
 **Yan Zihan** Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification tech report **[WWW 2025]**  
 开源数据和代码： **soon**   
