@@ -10,7 +10,7 @@ Here are some recent competitions I participated in. Although the rankings are n
 
 **2025 kaggle swe-bench solo银**  
 
-**2024 WWW2025多模态对话系统意图识别挑战赛 决赛top10**  
+**2024 WWW2025多模态对话系统意图识别挑战赛 决赛top9**  
 
 **2024 阿里天池 AFAC2024挑战组-赛题一:金融工具学习** **A榜Top3 B榜top7**  
 开源代码：https://github.com/yanzihan1/AFAC2024-Atop3  
