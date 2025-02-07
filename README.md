@@ -43,6 +43,9 @@ Here are some recent competitions I participated in. Although the rankings are n
 
 ### **I conduct research on various papers and also work with open-source code:**    
 
+**Yan Zihan**  GraphAgent: An Adversarial-Based Graph Learning Agent Network Structure **[NAACL2025]**
+开源数据和代码： **soon**   
+
 **Yan Zihan** Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification tech report **[WWW 2025]**  
 开源数据和代码： **soon**   
 
