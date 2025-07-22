@@ -1,61 +1,71 @@
-# Hi
+# Hi, I'm Zihan Yan (闫子涵) 👋
 
-Life always requires seeking something fresh.
-I enjoy learning new technologies and reading new papers.
-Although not very skilled, I also love participating in competitions and scientific research activities, hoping to meet more friends.
+> Life always requires seeking something fresh.
 
-Here are some recent competitions I participated in. Although the rankings are not very good, I like to open-source them and exchange and learn with everyone.
+I'm a passionate learner and researcher with a strong interest in **Large Language Models (LLMs), Natural Language Processing (NLP), and Graph Learning**. I thrive on tackling new challenges, whether through competitive programming, academic research, or diving into the latest papers.
 
-**2025 kaggle WSDM-CUP2025 银** 
+I believe in the power of open source and enjoy sharing my work to connect and learn with others. Feel free to explore my projects and let's build something amazing together!
 
-**2025 kaggle swe-bench solo银**  
+---
 
-**2024 WWW2025多模态对话系统意图识别挑战赛 决赛top9**  
+### 🚀 My Tech Stack
 
-**2024 阿里天池 AFAC2024挑战组-赛题一:金融工具学习** **A榜Top3 B榜top7**  
-开源代码：https://github.com/yanzihan1/AFAC2024-Atop3  
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-blue?style=for-the-badge" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+</p>
 
-**2024 KDD-CUP PST赛道 TOP4 /**  
+---
 
-**2024 Kaggle LLM - Detect AI Generated Text solo银牌 /**  
+### 🏆 Competitions
 
-**2024 阿里天池 阿里妈妈强化学习挑战赛  TOP4**  
-开源方案 https://github.com/yanzihan1/2024-Alimama-challenge-top4  
+<details>
+<summary><strong>Click to view all competition experiences</strong></summary>
 
-**2023 阿里天池-NVIDIA全球智能汽车AI挑战赛[赛道一] AI大模型检索问答 Top 6**  
-开源方案[yanzihan1/LLM_RAG: 2023全球智能汽车AI挑战赛_赛道一_复赛8_决赛6 总结 (github.com)](https://github.com/yanzihan1/LLM_RAG)  
+- **2025** | Alibaba Tianchi AFAC2025: Financial Long-Chain-of-Thought Compression | *Ongoing*
+- **2025** | Kaggle WSDM-CUP 2025 | **Silver Medal** 🥈
+- **2025** | Kaggle SWE-bench | **Solo Silver Medal** 🥈
+- **2024** | WWW2025 Multi-Modal Dialogue System Intent Recognition Challenge | **Finals Top 9**
+- **2024** | Alibaba Tianchi AFAC2024: Financial Tool Learning | **A-Board Top 3 / B-Board Top 7** | [🔗 Code](https://github.com/yanzihan1/AFAC2024-Atop3)
+- **2024** | KDD-CUP PST Track | **Top 4**
+- **2024** | Kaggle LLM - Detect AI Generated Text | **Solo Silver Medal** 🥈
+- **2024** | Alibaba Tianchi Alimama Reinforcement Learning Challenge | **Top 4** | [🔗 Code](https://github.com/yanzihan1/2024-Alimama-challenge-top4)
+- **2023** | Alibaba Tianchi - NVIDIA Global AI Challenge for Smart Cars: LLM RAG | **Top 6** | [🔗 Code](https://github.com/yanzihan1/LLM_RAG)
+- **2023** | Alibaba Tianchi Social Graph Link Prediction | **Top 15** | [🔗 Code](https://github.com/yanzihan1/GNN4CAAI-BDSC2023-TASK1)
+- **2022** | China Post "User Intent Recognition" Global Challenge | **Top 5** | [🔗 Code](https://github.com/yanzihan1/pt-intention-recognition)
+- **2021** | IJCAI 2021 WhoIsWho Task1 | **Top 12**
+- **2021** | Intel Master Cup Deep Learning Challenge | **Top 7**
+- **2021** | Sohu Campus Text Matching Competition | **Top 8** | [🔗 Code](https://github.com/CQUPT-GML/2021Sohu_Text_Matching)
+- **2021** | Tianchi Global AI Innovation Contest | **Top 2%**
 
-**2023阿里天池 社交图谱链接预测 [任务一] 社交图谱小样本场景链接预测 Top 15**  
-开源数据和代码：[yanzihan1/GNN4CAAI-BDSC2023-TASK1: 2023 CAAI-BDSC2023-TASK1 单模15方案 (github.com)](https://github.com/yanzihan1/GNN4CAAI-BDSC2023-TASK1)  
+</details>
 
-**2021年12月获IJCAI 2021-WhoIsWho Task1[赛道一] Top12.**  
+### 📝 Publications
 
-**2022年6月获中邮 ‘用户意图识别’全球挑战赛 Top 5.**  
-开原数据和代码：[yanzihan1/pt-intention-recognition: 中邮金融意图识别决赛第五名解决方案 (github.com)](https://github.com/yanzihan1/pt-intention-recognition)  
+<details>
+<summary><strong>Click to view all publications</strong></summary>
 
-**2021年7月获“英特尔大师杯”深度学习挑战赛[赛道三]Top 7**   
+- **[NAACL 2025]** **Yan Zihan**. GraphAgent: An Adversarial-Based Graph Learning Agent Network Structure. | `[Code coming soon]`
+- **[WWW 2025]** **Yan Zihan**. Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification (tech report). | `[Code coming soon]`
+- **[TKDE 2022]** **Yan Zihan**, Liu Li, Li Xin, et al. Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors. | [🔗 Code](https://github.com/yanzihan1/PSML)
+- **[WWW 2023]** **Yan Zihan**, Y Chen, et al. Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence. | [🔗 Code](https://github.com/yanzihan1/WWW2023-Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence)
+- **[ICSAI 2021]** He Jiawei, Liu Li, **Yan Zihan**, et al. User Alignment across Dynamic Social Networks based on Heuristic Algorithm. | [🔗 Code](https://github.com/yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-)
 
-**2021年6月获 2021搜狐校园文本匹配算法大赛 Top 8**      
-开源地址：[CQUPT-GML/2021Sohu_Text_Matching: 2021搜狐校园文本匹配算法大赛决赛第八名解决方案(github.com)](https://github.com/CQUPT-GML/2021Sohu_Text_Matching)  
+</details>
 
-**2021年4月获天池全球人工智能技术创新大赛[赛道三] Top 2%.**  
+---
 
+### 📫 How to reach me
 
-### **I conduct research on various papers and also work with open-source code:**    
+<p align="left">
+  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!--<a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>-->
+  <!--<a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>-->
+</p>
 
-**Yan Zihan**  GraphAgent: An Adversarial-Based Graph Learning Agent Network Structure **[NAACL2025]**  
-开源数据和代码： **soon**   
-
-**Yan Zihan** Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification tech report **[WWW 2025]**  
-开源数据和代码： **soon**   
-
-**Yan Zihan**, Liu Li, Li Xin, et al. Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors **[TKDE 2022]**  
-开源数据和代码：[yanzihan1/PSML: TKDE-Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors (github.com)](https://github.com/yanzihan1/PSML)
-
-
-He Jiawei, Liu Li, **Yan Zihan**, et al. User Alignment across Dynamic Social Networks based on Heuristic Algorithm **[ICSAI,2021]**  
-开源数据和代码：[yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-: in this part, I will provide many tools for social networking, Link prediction and so on (github.com)](https://github.com/yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-)
-
-**Yan Zihan**, Y Chen, et al. Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence **[WWW2023]**      
-开源数据和代码： https://github.com/yanzihan1/WWW2023-Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence
+<!-- Optional: GitHub Stats Card -->
+<!-- ![Zihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanzihan1&show_icons=true&theme=radical) -->
 
