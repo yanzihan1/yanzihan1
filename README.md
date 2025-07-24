@@ -48,6 +48,7 @@ I believe in the power of open source and enjoy sharing my work to connect and l
 
 <details>
 <summary><strong>Click to view all publications</strong></summary>
+  
 - **【Submission in AAAI2026】** **Yan Zihan**. Dual-Stream Transformer: Enabling Concurrent Reasoning and Answer-First Generation | 
 - **[NAACL 2025]** **Yan Zihan**. GraphAgent: An Adversarial-Based Graph Learning Agent Network Structure. | ''
 - **[WWW 2025]** **Yan Zihan**. Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification (tech report). | ''
