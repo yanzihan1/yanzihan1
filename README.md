@@ -26,7 +26,7 @@ I believe in the power of open source and enjoy sharing my work to connect and l
 <summary><strong>Click to view all competition experiences</strong></summary>
 
 - **2025** | Alibaba Tianchi 2025AI Global Security Challenge *Ongoing*
-- **2025** | Alibaba Tianchi AFAC2025: Financial Long-Chain-of-Thought Compression | **Top1**
+- **2025** | Alibaba Tianchi AFAC2025: Financial Long-Chain-of-Thought Compression | **A-Board Top1**
 - **2025** | Kaggle WSDM-CUP 2025 | **Silver Medal** 🥈
 - **2025** | Kaggle SWE-bench | **Solo Silver Medal** 🥈
 - **2024** | WWW2025 Multi-Modal Dialogue System Intent Recognition Challenge | **Finals Top 9**
