@@ -48,9 +48,9 @@ I believe in the power of open source and enjoy sharing my work to connect and l
 
 <details>
 <summary><strong>Click to view all publications</strong></summary>
-- **【Submission in AAAI2026】** **Yan Zihan**. Dual-Stream Transformer: Enabling Concurrent Reasoning and Answer-First Generation
-- **[NAACL 2025]** **Yan Zihan**. GraphAgent: An Adversarial-Based Graph Learning Agent Network Structure. | 
-- **[WWW 2025]** **Yan Zihan**. Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification (tech report). | 
+- **【Submission in AAAI2026】** **Yan Zihan**. Dual-Stream Transformer: Enabling Concurrent Reasoning and Answer-First Generation | 
+- **[NAACL 2025]** **Yan Zihan**. GraphAgent: An Adversarial-Based Graph Learning Agent Network Structure. | ''
+- **[WWW 2025]** **Yan Zihan**. Weakly Supervised Multi-Modal Large Model for Intent Recognition and Classification (tech report). | ''
 - **[TKDE 2022]** **Yan Zihan**, Liu Li, Li Xin, et al. Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors. | [🔗 Code](https://github.com/yanzihan1/PSML)
 - **[WWW 2023]** **Yan Zihan**, Y Chen, et al. Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence. | [🔗 Code](https://github.com/yanzihan1/WWW2023-Long-Text-Generation-by-Modeling-Mutihop-Level-Coherence)
 - **[ICSAI 2021]** He Jiawei, Liu Li, **Yan Zihan**, et al. User Alignment across Dynamic Social Networks based on Heuristic Algorithm. | [🔗 Code](https://github.com/yanzihan1/Use-Dynamic-network-embedding-for-Social-Network-Aligment-)
