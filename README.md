@@ -34,6 +34,7 @@ I believe in the power of open source and enjoy sharing my work to connect and l
 - **2024** | KDD-CUP PST Track | **Top 4**
 - **2024** | Kaggle LLM - Detect AI Generated Text | **Solo Silver Medal** 🥈
 - **2024** | Alibaba Tianchi Alimama Reinforcement Learning Challenge | **Top 4** | [🔗 Code](https://github.com/yanzihan1/2024-Alimama-challenge-top4)
+- **2024** | GAIIC2024: UAV-based RGB-T Object Detection | **Top 3**| |
 - **2023** | Alibaba Tianchi - NVIDIA Global AI Challenge for Smart Cars: LLM RAG | **Top 6** | [🔗 Code](https://github.com/yanzihan1/LLM_RAG)
 - **2023** | Alibaba Tianchi Social Graph Link Prediction | **Top 15** | [🔗 Code](https://github.com/yanzihan1/GNN4CAAI-BDSC2023-TASK1)
 - **2022** | China Post "User Intent Recognition" Global Challenge | **Top 5** | [🔗 Code](https://github.com/yanzihan1/pt-intention-recognition)
